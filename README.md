@@ -167,9 +167,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-almightybtw - almighty#3225
+My Discord - almighty#3225
 
-Project Link: [HERE](https://github.com/almightybtw/DiscordRPC)
+DiscordRPC [https://github.com/almightybtw/DiscordRPC](https://github.com/almightybtw/DiscordRPC)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
