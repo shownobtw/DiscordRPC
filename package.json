@@ -1,0 +1,16 @@
+{
+  "name": "custom-rpc",
+  "version": "1.0.0",
+  "description": "custom rpc for discord",
+  "main": "rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "almighty",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0",
+    "discord-rpc": "^4.0.1"
+  }
+}
