@@ -96,7 +96,7 @@ _You should open a terminal window and install some dependencies._
 2. Clone the repo
 
    ```sh
-   git clone https://github.com/almightybtw_/DiscordRPC.git
+   git clone https://github.com/almightybtw/DiscordRPC.git
    ```
 3. Install NPM packages
 
