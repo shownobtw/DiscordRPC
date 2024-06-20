@@ -6,7 +6,7 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/almightybtw/DiscordRPC?color=green&style=flat-square">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/almightybtw/DiscordRPC?color=green&style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/almightybtw/DiscordRPC?color=green&style=flat-square">
-<img alt="GitHub forks" src="https://img.shields.io/badge/Author-almightybtw-sucess?color=9cf&style=flat-square">
+<img alt="GitHub forks" src="https://img.shields.io/badge/Author-shownobtw-sucess?color=9cf&style=flat-square">
 
 
 </a>
